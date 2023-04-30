@@ -8,4 +8,3 @@ pandas
 scikit-learn
 sympy
 jupyterlab_launcher>=0.5.0
-Algoritmosnumericos
