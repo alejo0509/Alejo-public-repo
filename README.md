@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alejo0509/Alejo-public-repo/HEAD)
+
 - 👋 Hi, I’m @alejo0509
 - 👀 I’m interested in Physics and computational sciences
 - 🌱 I’m currently learning Science
